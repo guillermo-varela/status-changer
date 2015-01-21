@@ -7,4 +7,4 @@ Demonstration of how to change the current status of a Web Application.
 - Change the current status with a PUT request using an URL like this one: http://localhost:8080/status-changer/health/toggleStatus
 - Enjoy
 
-A more detailed tutorial can be found (in spanish) at: [a link](http://nombre-temp.blogspot.com/2015/01/cambiar-el-estado-de-una-aplicacion-web.html)
+A more detailed tutorial can be found (in spanish) at: [http://nombre-temp.blogspot.com/2015/01/cambiar-el-estado-de-una-aplicacion-web.html](http://nombre-temp.blogspot.com/2015/01/cambiar-el-estado-de-una-aplicacion-web.html)
