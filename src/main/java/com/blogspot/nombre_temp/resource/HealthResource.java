@@ -13,7 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 */
-package com.blogspot.temporal_name.resource;
+package com.blogspot.nombre_temp.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.PUT;
@@ -21,7 +21,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.blogspot.temporal_name.util.StatusHolder;
+import com.blogspot.nombre_temp.util.StatusHolder;
 
 @Path("/health")
 @Produces(MediaType.TEXT_PLAIN)

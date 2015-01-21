@@ -13,7 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 */
-package com.blogspot.temporal_name.config;
+package com.blogspot.nombre_temp.config;
 
 import javax.ws.rs.ApplicationPath;
 
@@ -23,6 +23,6 @@ import org.glassfish.jersey.server.ResourceConfig;
 public class WebApplicationConfig extends ResourceConfig {
 
     public WebApplicationConfig() {
-        packages("com.blogspot.temporal_name.resource");
+        packages("com.blogspot.nombre_temp.resource");
     }
 }
